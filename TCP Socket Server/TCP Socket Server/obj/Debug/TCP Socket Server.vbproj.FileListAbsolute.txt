@@ -9,3 +9,7 @@ c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Sock
 c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.xml
 c:\users\martin\documents\visual studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.pdb
 C:\Users\Martin\Documents\Visual Studio 2013\Projects\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.vbprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\AnonyChat\TCP Socket Server\TCP Socket Server\bin\Debug\TCP Socket Server.exe.config
+C:\Users\Martin\Documents\GitHub\AnonyChat\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.exe
+C:\Users\Martin\Documents\GitHub\AnonyChat\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.xml
+C:\Users\Martin\Documents\GitHub\AnonyChat\TCP Socket Server\TCP Socket Server\obj\Debug\TCP Socket Server.pdb
